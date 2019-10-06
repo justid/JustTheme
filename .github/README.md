@@ -1,4 +1,6 @@
-# Kratos
+# JustTheme
+
+JustTheme is forked from Kratos, the basic idea is to make this theme work with AMP and support multi language.
 
 A clean, simple and responsive blog theme of WordPress, based on [Bootstrap](https://github.com/twbs/bootstrap) and [Font Awesome](https://github.com/FortAwesome/Font-Awesome). Created and maintained by Vtrois.
 
